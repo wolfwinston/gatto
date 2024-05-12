@@ -39,3 +39,8 @@ plugin_folder
 # cache embedder
 core/local_cache/*
 
+# FORK INTEGRATIONS
+*.egg-info
+core/build
+
+
